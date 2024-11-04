@@ -1,0 +1,1 @@
+GitHub no considera a la acción de crear una carpeta vacía como un cambio

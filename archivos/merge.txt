@@ -1,1 +1,5 @@
 Me llamo Andrés Rosero, tengo 20 años y mis aspiraciones para con la materia son aprender lo mejor que pueda las bases de POO y aprender a manejar java
+Porque ahora la carpeta no esta vacia
+
+Hay que tener cuidado con modificar un mismo archivo desde diferentes ubicaciones,
+ya que genera conflictos puesto que el programa en este caso de github no sabe cual elegir
